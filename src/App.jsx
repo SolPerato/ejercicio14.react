@@ -2,7 +2,7 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Menu from "./components/common/menu";
 import Footer from "./components/common/Footer";
-import Inicio from "./components/views/Inicio";
+import Inicio from "./components/views/recetas/inicio";
 
 function App() {
   return (

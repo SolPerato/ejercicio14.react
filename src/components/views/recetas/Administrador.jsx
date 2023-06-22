@@ -1,6 +1,5 @@
 import { Table, Button } from "react-bootstrap";
-import ItemProducto from "./producto/ItemProducto";
-
+import ItemProducto from "../recetas/DetalleProducto";
 const Administrador = () => {
     return (
         <section className="container mainSection">

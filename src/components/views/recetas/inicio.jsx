@@ -1,5 +1,5 @@
 import { Container, Row } from "react-bootstrap";
-import CardProducto from "./producto/CardProducto";
+import CardProducto from "../recetas/DetalleProducto";
 const Inicio = () => {
   return (
     <section className="mainSection">
