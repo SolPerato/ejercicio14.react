@@ -3,6 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Menu from "./components/common/menu";
 import Footer from "./components/common/Footer";
 import Inicio from "./components/views/recetas/inicio";
+import Administrador from "./components/views/recetas/Administrador";
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
       {/* <DetalleProducto></DetalleProducto> */}
       {/* <CrearProducto></CrearProducto> */}
       {/* <EditarProducto></EditarProducto> */}
-      {/*<Administrador></Administrador>*/}
+      <Administrador></Administrador>
       <Footer></Footer>
     </>
   );
