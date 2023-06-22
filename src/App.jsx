@@ -9,7 +9,6 @@ function App() {
   return (
     <>
       <Menu></Menu>
-      {/* <Error404></Error404> */}
       <Inicio></Inicio>
       {/* <DetalleProducto></DetalleProducto> */}
       {/* <CrearProducto></CrearProducto> */}

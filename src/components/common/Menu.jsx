@@ -16,7 +16,6 @@ const Menu = () => {
             <Nav.Link href="#">Inicio</Nav.Link>
             <Nav.Link href="#">Nosotros</Nav.Link>
             <Nav.Link href="#">Administrador</Nav.Link>
-            <Nav.Link href="#">Login</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

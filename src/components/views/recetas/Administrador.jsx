@@ -1,5 +1,4 @@
 import { Table, Button } from "react-bootstrap";
-import ItemProducto from "../recetas/DetalleProducto";
 const Administrador = () => {
     return (
         <section className="container mainSection">
@@ -18,11 +17,10 @@ const Administrador = () => {
               <th>Precio</th>
               <th>URL de Imagen</th>
               <th>Categoria</th>
-              <th>Opciones</th>
             </tr>
           </thead>
           <tbody>
-           <ItemProducto></ItemProducto>
+           
           </tbody>
         </Table>
       </section>
